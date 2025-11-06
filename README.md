@@ -4,7 +4,7 @@
 
 <p align="center">
   🎓 3rd-Year Computer Engineering Student at <strong>École Marocaine des Sciences de l’Ingénieur (EMSI)</strong><br>
-  💻 Specialized in <strong>Software Development</strong> | 💡 Passionate about <strong>Algorithms</strong> & <strong>AI</strong><br>
+  💻 Specialized in <strong>Software Development</strong> | 💡 Passionate about <strong>Algorithms</strong> & <strong>ML</strong><br>
   🌍 Based in <strong>Casablanca, Morocco</strong>
 </p>
 
@@ -13,12 +13,11 @@
 ### 🚀 About Me
 
 I’m a **Computer Engineering student** with strong programming skills and a passion for building intelligent systems.  
-I enjoy solving complex problems through **algorithmic thinking**, **software design**, and **AI techniques**.
+I enjoy solving complex problems through **algorithmic thinking**, **software design**.
 
 - 🎯 **Areas of interest:** Software Engineering, Artificial Intelligence, Deep Learning, and Optimization  
 - 🔭 **Experience:** Developed Python and web projects at Pragmatic Consulting  
-- 💡 **Mindset:** Analytical, creative, and driven by continuous learning  
-- ⚙️ **Philosophy:** “Write code that teaches computers how to think.”
+- 💡 **Mindset:** Analytical, curiousity, and driven by continuous learning  
 
 ---
 
@@ -37,7 +36,7 @@ I enjoy solving complex problems through **algorithmic thinking**, **software de
 
 - 🎓 **3rd Year – Computer Engineering (Ongoing)**  
   *École Marocaine des Sciences de l’Ingénieur (EMSI)*  
-- 📘 **Preparatory Cycle for Engineering (2023–2025)** — *Average: 18.54/20*  
+- 📘 **Preparatory Cycle for Engineering (2023–2025)**   
 - 🎓 **Baccalauréat in Mathematics (2022–2023)** — *Lycée Tarek Ibn Ziad*
 
 ---
@@ -45,8 +44,6 @@ I enjoy solving complex problems through **algorithmic thinking**, **software de
 ### 🏅 Distinctions
 
 - 🧠 **National Olympiads Finalist (Biology)** — Ranked among the **Top 20 nationwide**  
-- 🏃 **Trail Running Award** — *Prix Espoir Trail Maroc*  
-- 🏔️ **Mountaineering** — *Climbed Mount Toubkal (4,167 m)*  
 
 ---
 
@@ -68,12 +65,28 @@ I enjoy solving complex problems through **algorithmic thinking**, **software de
 
 ### 🧠 Technical Skills
 
-| Category | Tools & Technologies |
-|-----------|----------------------|
-| **Programming** | Python · C · SQL · HTML · CSS · JavaScript |
-| **AI / ML** | NumPy · DeepLearning.AI frameworks |
-| **Modeling & Design** | UML · Merise |
-| **Tools & Environments** | Git · Linux · N8N · VS Code |
+### 🧠 Technical Skills
+
+<p align="center">
+  
+  <!-- Programming Languages -->
+  <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
+  <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
+  <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
+  <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
+  <img src="https://img.shields.io/badge/sql-%2300599C.svg?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
+
+  <!-- Tools & Frameworks -->
+  <br><br>
+  <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
+  <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
+  <img src="https://img.shields.io/badge/n8n-%23F05A24.svg?style=for-the-badge&logo=n8n&logoColor=white"/>
+  <img src="https://img.shields.io/badge/vs%20code-%23007ACC.svg?style=for-the-badge&logo=visualstudiocode&logoColor=white"/>
+  <img src="https://img.shields.io/badge/uml-%23006C9A.svg?style=for-the-badge&logoColor=white"/>
+  <img src="https://img.shields.io/badge/merise-%23008A00.svg?style=for-the-badge&logoColor=white"/>
+
+</p>
 
 ---
 
