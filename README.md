@@ -63,7 +63,6 @@ I enjoy solving complex problems through **algorithmic thinking**, **software de
 
 ---
 
-### 🧠 Technical Skills
 
 ### 🧠 Technical Skills
 
@@ -78,7 +77,7 @@ I enjoy solving complex problems through **algorithmic thinking**, **software de
   <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/>
 
   <!-- Tools & Frameworks -->
-  <br><br>
+ 
   <img src="https://img.shields.io/badge/linux-%23FCC624.svg?style=for-the-badge&logo=linux&logoColor=black"/>
   <img src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/n8n-%23F05A24.svg?style=for-the-badge&logo=n8n&logoColor=white"/>
