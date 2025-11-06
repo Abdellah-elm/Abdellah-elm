@@ -1,16 +1,50 @@
 ## Hi there 👋
 
 <!--
-**Abdellah-elm/Abdellah-elm** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# 👋 Hi, I'm Abdellah EL MLIH
 
-Here are some ideas to get you started:
+🎓 Computer Science Student | 💡 Aspiring AI Engineer  
+🌍 Based in Morocco | 💻 Passionate about Machine Learning, Deep Learning & Software Engineering  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+
+### 🚀 About Me
+- 🔭 Currently working on AI projects using TensorFlow & Python  
+- 🌱 Learning advanced topics in ML, Computer Vision & Data Engineering  
+- 💬 Ask me about algorithms, C programming, or AI model design  
+- ⚙️ I love building, optimizing, and understanding how systems think  
+
+---
+
+### 🧰 Tech Stack
+💻 **Languages:** Python, C, JavaScript, C++  
+🧠 **AI/ML:** TensorFlow, Keras, scikit-learn  
+🌐 **Web:** Node.js, HTML, CSS  
+🗄️ **Databases:** MySQL, MongoDB  
+🧩 **Tools:** Git, Docker, VS Code, Linux  
+
+---
+
+### 📊 GitHub Stats
+![Abdellah's GitHub stats](https://github-readme-stats.vercel.app/api?username=abdellahelmlih&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=abdellahelmlih&layout=compact&theme=tokyonight)
+
+---
+
+### 🏆 Achievements & Highlights
+- 🥇 Built a **Smart Roof System** with Arduino (rain detection + automatic closure)
+- 🤖 Created a **Cats vs Dogs CNN classifier** with +63% accuracy
+- 🧩 Designed an AI bot for **Rock, Paper, Scissors** that beats multiple strategies
+
+---
+
+### 📫 Connect With Me
+- 💼 [LinkedIn](https://www.linkedin.com/in/abdellahelmlih/)
+- ✉️ Email: [abdellahelmlih@gmail.com](mailto:abdellahelmlih@gmail.com)
+- 🌐 [Portfolio Website](https://your-portfolio-link.com) _(optional)_
+
+---
+
+> 💬 *“Continuous learning is the key to continuous improvement.”*  
+
 -->
