@@ -16,8 +16,7 @@ I’m a **Computer Engineering student** with strong programming skills and a pa
 I enjoy solving complex problems through **algorithmic thinking**, **software design**.
 
 - 🎯 **Areas of interest:** Software Engineering, Artificial Intelligence, Deep Learning, and Optimization  
-- 🔭 **Experience:** Developed Python and web projects at Pragmatic Consulting  
-- 💡 **Mindset:** Analytical, curiousity, and driven by continuous learning  
+- 🔭 **Experience:** Developed Python and web projects at Pragmatic Consulting   
 
 ---
 
