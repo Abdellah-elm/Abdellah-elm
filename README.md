@@ -1,6 +1,3 @@
-## Hi there 👋
-
-<!--
 # 👋 Hi, I'm Abdellah EL MLIH
 
 🎓 Computer Science Student | 💡 Aspiring AI Engineer  
@@ -46,5 +43,3 @@
 ---
 
 > 💬 *“Continuous learning is the key to continuous improvement.”*  
-
--->
