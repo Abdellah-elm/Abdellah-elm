@@ -92,7 +92,7 @@ I enjoy solving complex problems through **algorithmic thinking**, **software de
 ### 📊 GitHub Analytics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=abdellah-elmh&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abdellah-elm&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdellah-elm&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
@@ -105,7 +105,7 @@ I enjoy solving complex problems through **algorithmic thinking**, **software de
 ### 🌐 Connect With Me
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/abdellahelmlih/">
+  <a href="https://www.linkedin.com/in/abdellah-elmlih-09793b265/">
     <img src="https://img.shields.io/badge/LinkedIn-Abdellah%20EL%20MLIH-blue?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
   <a href="mailto:abdellahelmlih@gmail.com">
@@ -116,11 +116,11 @@ I enjoy solving complex problems through **algorithmic thinking**, **software de
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=abdellahelmlih&color=blue&style=for-the-badge" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=abdellah-elm&color=blue&style=for-the-badge" alt="Profile Views" />
 </p>
 
 ---
 
 <p align="center">
-  <i>“Continuous learning is the foundation of continuous improvement.”</i>
+  <a href="https://mapmyvisitors.com/web/1c0ij"  title="Visit tracker"><img src="https://mapmyvisitors.com/map.png?d=9jTjR5ya1AWlZPJ3HNhJIX_99iE64RCv9DDhboelT8E&cl=ffffff" /></a>
 </p>
