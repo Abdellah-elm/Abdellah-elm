@@ -1,7 +1,7 @@
 <h1 align="center">
    Hi, I'm <a href="https://www.linkedin.com/in/abdellah-elmlih-09793b265/"><span style="color:#4682B4;">Abdellah EL MLIH</span></a>
   <p align="center">
-     <strong>Research Intern @ LPRI-EMSI</strong> | 🎓 Computer Engineering @ EMSI 
+     <strong>Research Intern @ LPRI-EMSI</strong> |  Computer Engineering @ EMSI 
   </p>
 </h1>
 
