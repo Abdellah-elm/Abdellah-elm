@@ -40,7 +40,7 @@ From quantum research to production web apps, I deliver impactful code.
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdellah-elm&repo=QCNN&theme=tokyonight&hide_border=true" />
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdellah-elm&repo=Jazz-Improvisation-with-LSTM&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdellah-elm&repo=GSOC-TESTS&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
