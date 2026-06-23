@@ -45,7 +45,9 @@ Passionate about **quantum computing & AI**, researching **Quantum Machine Learn
   <a href="https://github.com/Abdellah-elm/AEGISQ">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdellah-elm&repo=AEGISQ&theme=tokyonight&hide_border=true" />
   </a>
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdellah-elm&repo=HQCNN&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Abdellah-elm/HQCNN">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdellah-elm&repo=HQCNN&theme=tokyonight&hide_border=true" />
+  </a>
 </p>
 
 <!-- Web & ML -->
