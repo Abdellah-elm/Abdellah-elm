@@ -4,7 +4,7 @@
 
   <p align="center">
 
-     Research Intern @ LPRI-EMSI|  Computer Engineering @ EMSI 
+     Research Intern @ LPRI-EMSI  |  Computer Engineering @ EMSI 
 
   </p>
 
