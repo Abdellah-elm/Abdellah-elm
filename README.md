@@ -22,10 +22,11 @@
 
 Passionate about **quantum computing & AI**, researching **Quantum Machine Learning (QML)** at **LPRI-EMSI**. From quantum kernel evaluation (IEEE ICTAI 2026) to production LLMOps systems.
 
+-  **AEGISQ**  Winner, Innovation hackathon (EIC-V2) — adaptive post-quantum cryptography framework
 -  **GuardRAG**  production RAG assistant live on HuggingFace Spaces (guardrails · multi-model routing · semantic caching · observability)
 -  **Velox**  LLM inference engine built from scratch: KV cache → static batching (×4.3 throughput on T4) → OpenAI-compatible API
--  **AEGISQ**  Winner, Innovation hackathon (EIC-V2) — adaptive post-quantum cryptography framework
 
+> **Read the full technical deep-dive (for GuardRAG & Velox):** [From Pre-trained Weights to Live on Anyone's Phone: How I Built a Complete AI Stack](https://medium.com/@abdellahelmlih/from-pre-trained-weights-to-live-on-anyones-phone-how-i-built-a-complete-ai-stack-as-a-3rd-year-5d76b234bb35)
 ---
 
 ###  Projects
