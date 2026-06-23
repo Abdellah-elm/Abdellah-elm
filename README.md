@@ -52,7 +52,8 @@ Passionate about **quantum computing & AI**, researching **Quantum Machine Learn
 
 <!-- Web & ML -->
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdellah-elm&repo=sondage-app&theme=tokyonight&hide_border=true" />
+  <a href="https://github.com/Abdellah-elm/sondage-app">
+   <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdellah-elm&repo=sondage-app&theme=tokyonight&hide_border=true" />
   <a href="https://github.com/Abdellah-elm/EventShop">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=Abdellah-elm&repo=EventShop&theme=tokyonight&hide_border=true" />
   </a>
