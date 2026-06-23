@@ -11,7 +11,7 @@
 </h1>
 
 <p align="center">
-  <em>Building hybrid quantum-classical models & production LLMOps systems | Casablanca, Morocco</em>
+  <em>Building hybrid quantum-classical models & production LLMOps/MLOps systems | Casablanca, Morocco</em>
 </p>
 
 <img align="right" src="https://komarev.com/ghpvc/?username=Abdellah-elm&color=blue&style=flat-square" alt="Profile Views" />
