@@ -27,6 +27,8 @@ Passionate about **quantum computing & AI**, researching **Quantum Machine Learn
 -  **Velox**  LLM inference engine built from scratch: KV cache → static batching (×4.3 throughput on T4) → OpenAI-compatible API
 
 > **Read the full technical deep-dive (for GuardRAG & Velox):** [From Pre-trained Weights to Live on Anyone's Phone: How I Built a Complete AI Stack](https://medium.com/@abdellahelmlih/from-pre-trained-weights-to-live-on-anyones-phone-how-i-built-a-complete-ai-stack-as-a-3rd-year-5d76b234bb35)
+
+> **Read the full technical deep-dive (for AEGISQ):** [Post-quantum encryption shipped in 2024. Deciding how much of it to use is the part nobody solved.](https://medium.com/p/fc662fc0de7c?postPublishedType=initial)
 ---
 
 ###  Projects
